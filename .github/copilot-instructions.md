@@ -10,7 +10,7 @@ The-Xavier-Blueprint is a repository that serves as a foundational blueprint or 
 .
 ├── .github/
 │   └── copilot-instructions.md   # This file – Copilot agent instructions
-└── README.md                     # Project overview
+└── README.md                     # Main project README
 ```
 
 ## Working in This Repository
